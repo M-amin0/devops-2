@@ -1,0 +1,5 @@
+git config  --global --unset user.email "Personal email " #To remove already setup email#
+git config --global --unset user.name "username" # to remove#
+
+git config --global user.email "email address" # to setup#
+git config --global username "username" 
